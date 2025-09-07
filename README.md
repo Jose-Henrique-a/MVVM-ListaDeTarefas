@@ -1,16 +1,26 @@
-# flutter_todo_yt
+# MVVM Lista de Tarefas
 
-A new Flutter project.
+Este projeto foi desenvolvido para a aprendizagem da arquitetura MVVM (Model-View-ViewModel) utilizando Flutter.
 
-## Getting Started
+## Sobre o projeto
+- Aplicativo de lista de tarefas (ToDo) feito em Flutter.
+- Estrutura baseada na arquitetura MVVM, separando Model, View e ViewModel.
+- Utiliza uma API externa do site [crudcrud.com](https://crudcrud.com) para persistência dos dados.
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
+- Adicionar, editar e remover tarefas.
+- Persistência dos dados via requisições HTTP para a API externa.
+- Interface simples e intuitiva para facilitar o aprendizado.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias utilizadas
+- Flutter
+- MVVM
+- HTTP
+- API externa ([crudcrud.com](https://crudcrud.com))
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Objetivo
+O foco principal deste projeto é o estudo e prática da arquitetura MVVM no Flutter, além de demonstrar como integrar aplicações Flutter com APIs REST externas.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+Sinta-se à vontade para explorar, modificar e utilizar este projeto como base para seus estudos!
